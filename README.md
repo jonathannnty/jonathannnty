@@ -14,8 +14,6 @@ I build things end-to-end — from React frontends to REST APIs to LSTM models. 
  
 ## 🔨 What I've Built
  
-[![Study Buddy](https://github-readme-stats.vercel.app/api/pin/?username=jonathannnty&repo=study-buddy&theme=default&hide_border=true)](https://github.com/jonathannnty/study-buddy)
- 
 **[Study Buddy](https://github.com/watawada/StudyBuddy)** — AI-powered flashcard & quiz generator  
 `React · FastAPI · MongoDB · Google Gemini`  
 Upload a PDF, get a full study set. Built in 24 hours at a hackathon with a 4-person team. I owned the frontend — responsive UI, dynamic flashcard/quiz components, study pack creation flow.
