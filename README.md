@@ -70,24 +70,6 @@ Novel audio-labeling pipeline for human activity recognition data collection. Cu
  
 ---
  
-## 📊 GitHub Stats
- 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jonathannnty&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathannnty&layout=compact&hide_border=true&theme=default" />
-    </td>
-  </tr>
-</table>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jonathannnty&theme=default&hide_border=true)](https://git.io/streak-stats)
- 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jonathannnty&theme=minimal&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
----
- 
 ## 📌 Currently
  
 - 📚 Taking **AI: Search & Reasoning**, **Data-Driven UX/Product Design**, and **Practicum in Large-Scale Codebases** at UCSD
