@@ -2,7 +2,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jonathannnty&label=Profile+Views&color=0e75b6&style=flat)
  
 <!-- Typing animation headline -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&width=600&lines=CS+%40+UC+San+Diego+%7C+Class+of+%2727;Full-Stack+Developer+%2B+ML+Engineer;Regent%27s+Scholar+%7C+Alan+Turing+Scholar;Open+to+SWE+Internships+%E2%80%94+Summer+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58a6ff&width=600&lines=CS+%40+UC+San+Diego+%7C+Class+of+%2727;Full-Stack+Developer+%2B+ML+Engineer;Regent%27s+Scholar+%7C+Alan+Turing+Scholar;Open+to+SWE+Internships+%E2%80%94+Summer+2026)](https://git.io/typing-svg)
  
 # Hey, I'm Jonathan Ty 👋
  
